@@ -1,0 +1,2 @@
+Car | 1 | A9 | Audi | Black | 2022 | 60000 | true
+Car | 2 | A9 | Audi | Red | 2019 | 50000 | true
